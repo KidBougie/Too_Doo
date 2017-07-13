@@ -1,24 +1,18 @@
-# README
+# AJAX TOO DOO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple, single page todo list, similar to my last one +AJAX and exteremely fast.
 
-Things you may want to cover:
+* Ruby 2.5.1
 
-* Ruby version
+* Rails 5
 
-* System dependencies
+* AJAX
 
-* Configuration
+* JQuery
 
-* Database creation
+* Chrome 59.0.3071 
 
-* Database initialization
+to initialize:
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Rails Server on command line. 
+http://localhost:3000/tasks on browsers address bar.
